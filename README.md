@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Axror 👋
 
-<!--
-**murodovaxror9-coder/murodovaxror9-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** based in Tashkent, Uzbekistan. I build fast, clean web apps, from the React interface to the Node.js API and the database.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** React, TypeScript, JavaScript, Tailwind CSS, Vite
+
+**Backend:** Node.js, Express, REST API, JWT auth
+
+**Database:** PostgreSQL, MongoDB
+
+**Tools:** Git, GitHub, Vercel, Docker, Postman
+
+## 🚀 What I'm working on
+
+- DevLab: an LMS platform for IT learning centers (React + Express, multi-role panels)
+- Personal portfolio and side projects with React, TypeScript and Tailwind
+- Learning system design and deploying full-stack apps
+
+## 🌐 Links
+
+- Portfolio: [murodov.dev](https://murodov.dev)
+- Email: murodovaxror9@gmail.com
+
+## 📊 GitHub Stats
+
+![Axror's GitHub stats](https://github-readme-stats.vercel.app/api?username=murodovaxror9-coder&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murodovaxror9-coder&layout=compact&theme=tokyonight)
