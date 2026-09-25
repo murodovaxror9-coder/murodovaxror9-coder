@@ -22,8 +22,3 @@
 
 - Portfolio: [murodov.dev](https://murodov.dev)
 - Email: murodovaxror9@gmail.com
-
-## 📊 GitHub Stats
-
-![Axror's GitHub stats](https://github-readme-stats.vercel.app/api?username=murodovaxror9-coder&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murodovaxror9-coder&layout=compact&theme=tokyonight)
